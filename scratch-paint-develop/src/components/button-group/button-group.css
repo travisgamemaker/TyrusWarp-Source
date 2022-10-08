@@ -1,0 +1,10 @@
+@import "../../css/units";
+
+.button-group {
+    display: inline-flex;
+    flex-direction: row;
+    padding: 0 0 0 $space;
+}
+[dir="rtl"] .button-group {
+    padding: 0 $space 0 0;
+}

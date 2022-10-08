@@ -1,0 +1,21 @@
+{
+  "short_name": "TyrusWarp",
+  "name": "TyrusWarp",
+  "description": "Mod of TurboWarp with high quality SVG rendering, pen pressure detection in the paint editor (coming soon), and more features.",
+  "icons": [
+    {
+      "src": "images/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "editor",
+  "background_color": "#333333",
+  "display": "standalone",
+  "theme_color": "#333333"
+}
