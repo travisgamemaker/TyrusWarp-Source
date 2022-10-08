@@ -11,6 +11,7 @@ import {styleBlob} from '../../helper/style-path';
  * worse, especially as the number of segments to join increase, and that there are problems in paper.js
  * with union on shapes with curves, so that chunks of the union tend to disappear.
  * (https://github.com/paperjs/paper.js/issues/1321)
+ * ADD THE SCRIPT FOR PEN PRESSURE HERE AND MAKE IT OPTIMIZE WHAT IT DREW POSSIBLY???
  *
  * @param {!Tool} tool paper.js mouse object
  */

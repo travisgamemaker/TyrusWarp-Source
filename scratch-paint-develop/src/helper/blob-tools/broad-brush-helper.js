@@ -10,6 +10,7 @@ import log from '../../log/log';
  * Broad brush draws strokes by drawing points equidistant from the mouse event, perpendicular to the
  * direction of motion. Shortcomings are that this path can cross itself, and 180 degree turns result
  * in a flat edge.
+ * ALSO ADD PEN PRESSURE HERE
  *
  * @param {!Tool} tool paper.js mouse object
  */
