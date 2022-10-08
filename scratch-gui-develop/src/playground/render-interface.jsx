@@ -152,17 +152,17 @@ const Footer = () => (
                     </a>
                     <a href="https://docs.turbowarp.org/translate">
                         <FormattedMessage
-                            defaultMessage="Help Translate TurboWarp"
-                            description="Menu bar item for translating TurboWarp link"
+                            defaultMessage="Help Translate TurboWarp/TyrusWarp"
+                            description="Menu bar item for translating TurboWarp/TyrusWarp link"
                             id="tw.footer.translate"
                         />
                     </a>
                 </div>
                 <div className={styles.footerSection}>
-                    <a href="https://scratch.mit.edu/users/GarboMuffin/#comments">
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                         <FormattedMessage
-                            defaultMessage="Feedback & Bugs"
-                            description="Link to feedback/bugs page"
+                            defaultMessage="RickRoll"
+                            description="RickRoll until i get something set up for bugs n stuff"
                             id="tw.feedback"
                         />
                     </a>
